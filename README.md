@@ -62,7 +62,7 @@ See the installation documentation for details and alternative installation meth
 
 To use OpenAI's services, you need to generate an API key. Follow these steps:
 
-1. Go to the OpenAI website: [OpenAI](https://www.openai.com/)
+1. Go to the OpenAI website: [OpenAI](https://platform.openai.com/settings/organization/api-keys)
 2. Sign up for an account or log in if you already have one.
 3. Navigate to the API section of the website.
 4. Click on the "Create API Key" button.
