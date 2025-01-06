@@ -58,6 +58,20 @@ See the installation documentation for details and alternative installation meth
     ```
     This will create a virtual environment and install the required packages.
 
+## Generating OpenAI API Key
+
+To use OpenAI's services, you need to generate an API key. Follow these steps:
+
+1. Go to the OpenAI website: [OpenAI](https://www.openai.com/)
+2. Sign up for an account or log in if you already have one.
+3. Navigate to the API section of the website.
+4. Click on the "Create API Key" button.
+5. Copy the generated API key and add it to your `.env` file:
+
+    ```
+    OPENAI_API_KEY=your_api_key_here
+    ```
+
 ## Usage
 
 1. Run the script:
