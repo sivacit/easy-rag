@@ -9,10 +9,7 @@ The YouTube Summarizer is a tool designed to simplify the process of extracting 
 ## Prerequisites
 
 - Python 3.7 or higher
-- `yt-dlp` for downloading YouTube audio
-- `whisper` for transcription
-
-### Installation
+- uv package manager
 
 Install `uv` with our standalone installers:
 
