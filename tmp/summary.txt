@@ -1,0 +1,11 @@
+The transcript outlines a course on Retrieval-Augmented Generation (RAG), focusing on building a system that allows interaction with documents using advanced techniques. Paulo, a senior software engineer, will lead the course covering RAG's key concepts, its components (retriever and generator), and the naive RAG approach, which has certain flaws.
+
+The course begins with a basic introduction to RAG, explaining that it enhances large language models (LLMs) like ChatGPT by incorporating user-specific data, making it possible to retrieve personalized answers. Participants are encouraged to set up their development environment, including Python, a code editor (preferably VS Code), and an OpenAI account to access API keys for hands-on practice.
+
+Paulo providently details the naive RAG process, which involves document indexing, retrieving relevant chunks, and generating responses. However, the naive approach suffers from limited contextual understanding, inconsistent relevance, poor integration between retrieval and generation, inefficiencies with large datasets, and a lack of adaptability.
+
+To address these pitfalls, the course introduces advanced RAG techniques, such as query expansion and employing generated answers to enhance the relevance of search results. The session continues with practical coding exercises, demonstrating the steps of document handling, embedding, and using a vector database to improve the accuracy of retrieved information.
+
+The hands-on examples illustrate the integration of embeddings using the Chroma vector database and how augmented queries yield better results. Participants learn to visualize the relationships within the retrieved data through graphs, emphasizing the benefits of using LLMs for generating relevant sub-queries.
+
+Finally, the course culminates with actionable challenges for participants to refine their queries and prompts, exploring new techniques that enhance RAG systems further. Paulo concludes by inviting participants to join his mailing list for ongoing education on AI and programming.
