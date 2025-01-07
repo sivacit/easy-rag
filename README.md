@@ -9,10 +9,11 @@ This project will contain all the Retrieval-Augmented Generation Code recipies f
 
 ## Some Basic Functionalities
 
-1. **The YouTube Summarizer:** is a tool designed to simplify the process of extracting and transcribing audio from YouTube videos. By leveraging `yt-dlp` for downloading audio and OpenAI's `whisper` for transcription, this project provides a seamless way to convert spoken content into text. This can be particularly useful for creating subtitles, generating notes, or simply archiving spoken content in a textual format.
+1. **The YouTube Summarizer:**
+    - Simplify the process of extracting and transcribing audio from YouTube videos. By leveraging `yt-dlp` for downloading audio and OpenAI's `whisper` for transcription, this project provides a seamless way to convert spoken content into text. This can be particularly useful for creating subtitles, generating notes, or simply archiving spoken content in a textual format and summarise it.
 
-
-
+2. ** Ask Questions on PDF:**
+    - Comming soon
 ## Prerequisites
 
 - Python 3.7 or higher
