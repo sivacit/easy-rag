@@ -1,5 +1,5 @@
 import summary
-from summary.openai import OpenAISummarizer
+from summary.openai-wrapper import OpenAISummarizer
 from summary.youtube import YouTubeTranscript
 
 def main():
